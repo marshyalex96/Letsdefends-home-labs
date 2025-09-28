@@ -23,7 +23,7 @@ My journey in Information Technology has led me to develop a passion and strong 
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+VirusTotal, Talos Intelligence, URLScan.io, sandbox execution (via Kali VM), plus SIEM (Splunk & QRadar)to correlate events.
 
 ### Network
 <div>
